@@ -1,4 +1,11 @@
 selenium
 webdriver-manager
 pandas
-beautifulsoup4
+webdriver
+ChromeDriverManager
+Service
+time
+BeautifulSoup
+By
+ActionChains
+
