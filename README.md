@@ -1,7 +1,7 @@
 #  IMDb Data Pipeline: Advanced Web Scraping & Extraction
 
 ## Project Overview
-This project is a high-performance data extraction pipeline designed to harvest granular movie data from IMDb. It addresses the challenge of dynamic web content—specifically the "Load More" pagination—that standard scrapers cannot handle. 
+This project is a high-performance data extraction pipeline designed to harvest granular movie data from IMDb. It addresses the challenge of dynamic web content, specifically the "Load More" pagination that standard scrapers cannot handle. 
 
 By automating browser interactions, this script builds a structured dataset (CSV) that includes deep financial metrics and production metadata, bridging the gap between raw web data and actionable insights.
 
